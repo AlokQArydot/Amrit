@@ -53,13 +53,14 @@ public class Analysis extends Login{
 	           String colorName = determineColorName(color);
 	           
 	           // Print the color name
-	           Reporter.log ("Meter " + identifier + " color: " + colorName);
+	           Reporter.log ("Gateway===: " + identifier + " color==: " + colorName);
 	           
 	           // Check if the meter is red
 	         
-	           if ("#FF0000".equalsIgnoreCase(meterColor)) {
+	           if ("Red".equalsIgnoreCase(colorName)) {
 	               // If the meter is red, send an email to the manager
-	               sendEmailToManager("Meter " + identifier + " is displaying red.");
+	               sendEmailToManager("Gateway " + identifier + " is displaying red.");
+	               System.out.println(" mail sent to Manager");
 	           }
 	       }
 	       // Close the browser
@@ -68,12 +69,13 @@ public class Analysis extends Login{
 //===============================================================================================================================================================================================
 	
 	   private static void sendEmailToManager(String message) {
-	       final String username = "aloknayak2013@gmail.com"; // Your Gmail username
-	       final String password = "dstxdjpjgpzvbmoh"; // Your Gmail password
+	       final String username = "alokqaengineer@gmail.com"; // Your Gmail username
+	       final String password = "ecypzarrvyszgycn"; // Your Gmail password
 	       // Set properties for the email server
 	       Properties props = new Properties();
 	       props.put("mail.smtp.auth", "true");
 	       props.put("mail.smtp.starttls.enable", "true");
+	       //props.put("mail.smtp.host", "smtp-mail.outlook.com");// You may need to change this based on your email provider
 	       props.put("mail.smtp.host", "smtp.gmail.com"); // You may need to change this based on your email provider
 	       props.put("mail.smtp.port", "587"); // You may need to change this based on your email provider
 	       // Create a session with the email server
@@ -87,7 +89,8 @@ public class Analysis extends Login{
 	           Message emailMessage = new MimeMessage(session);
 	           // Set the sender and recipient addresses
 	           emailMessage.setFrom(new InternetAddress(username));
-	           emailMessage.setRecipients(Message.RecipientType.TO, InternetAddress.parse("alokkumar@rydotintuit.com")); // Manager's email
+	           emailMessage.setRecipients(Message.RecipientType.TO, InternetAddress.parse("hitendrap@rydotinfotech.com")); // Manager's email
+	         //  emailMessage.setRecipients(Message.RecipientType.CC, InternetAddress.parse("cc@example.com")); // CC recipient's email
 	           // Set the email subject and body
 	           emailMessage.setSubject("Alert: Red Meter Detected");
 	           emailMessage.setText(message);
