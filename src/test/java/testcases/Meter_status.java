@@ -24,7 +24,7 @@ public class Meter_status extends Login {
 	@Test(priority = 2)
 	public void Meter_Report() throws InterruptedException {
 		Thread.sleep(3000);
-		driver.findElement(By.xpath(prop.getProperty("Analysis"))).click();
+		driver.findElement(By.xpath(prop.getProperty("Report"))).click();
 
 		driver.findElement(By.xpath(prop.getProperty("Meters_Analysis"))).click();
 		Thread.sleep(3000);
@@ -44,19 +44,20 @@ public class Meter_status extends Login {
 
 			// Click on the gateway to navigate to meter page
 			gateway.click();
+			
+			Thread.sleep(3000);
 
 			WebElement gatewayname = driver.findElement(By.tagName("h3"));
 			String Gatewayname = gatewayname.getText();
 
 			Reporter.log("Gateway== " + Gatewayname + "");
-			System.out.println("Gateway== " + Gatewayname + "");
 
 			// Find all meter elements on the page
 			List<WebElement> meterElements = driver.findElements(By.xpath("//h6//following-sibling::span"));
 			for (WebElement meterElement : meterElements) {
 				// Read meter name
 				String meterName = meterElement.getText();
-				System.out.println(meterName);
+				//System.out.println(meterName);
 				// Read meter state color
 				String meterColor = meterElement.getCssValue("background-color");
 
@@ -71,8 +72,8 @@ public class Meter_status extends Login {
 					String meterNames = meterElementname.getText();
 
 					// Print the color name
-					Reporter.log("Meter==== " + meterNames + " color: " + colorName);
-					System.out.println("Meter==== " + meterNames + " color: " + colorName);
+					Reporter.log("Meter==== " + meterNames + " ====color:=== " + colorName);
+					//System.out.println("Meter==== " + meterNames + " =====color:=== " + colorName);
 
 					// Check if the meter is red
 					if ("Red".equalsIgnoreCase(colorName)) {
@@ -96,15 +97,17 @@ public class Meter_status extends Login {
 	// ===============================================================================================================================================================================================
 
 	private static void sendEmailToManager(String message) {
-		final String username = "aloknayak2013@gmail.com"; // Your Gmail username
-		final String password = "dstxdjpjgpzvbmoh"; // Your Gmail password
+		final String username = "info@assistant-cap.com"; // Your Gmail username
+		final String password = "bqnmlrpypgvmccfv"; // Your Gmail password
 
 		// Set properties for the email server
 		Properties props = new Properties();
 		props.put("mail.smtp.auth", "true");
 		props.put("mail.smtp.starttls.enable", "true");
-		props.put("mail.smtp.host", "smtp.gmail.com"); // You may need to change this based on your email provider
-		props.put("mail.smtp.port", "587"); // You may need to change this based on your email provider
+		props.put("mail.smtp.host", "smtp.office365.com"); // Microsoft365 port 
+		props.put("mail.smtp.port", "587");
+		//props.put("mail.smtp.host", "smtp.gmail.com"); // You may need to change this based on your email provider
+		//props.put("mail.smtp.port", "587"); // You may need to change this based on your email provider
 
 		// Create a session with the email server
 		Session session = Session.getInstance(props, new Authenticator() {

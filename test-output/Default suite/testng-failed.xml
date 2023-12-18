@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testcases.Meter_status1">
+      <class name="testcases.Frequency_Read">
         <methods>
-          <include name="Meter_Report"/>
-          <include name="closeApplication"/>
+          <include name="Frequency_Report"/>
           <include name="setup"/>
+          <include name="closeApplication"/>
         </methods>
-      </class> <!-- testcases.Meter_status1 -->
+      </class> <!-- testcases.Frequency_Read -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
