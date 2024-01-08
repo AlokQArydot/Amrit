@@ -1,5 +1,7 @@
 package testcases;
 
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 import java.util.List;
 import java.util.Properties;
 
@@ -54,20 +56,27 @@ public class Frequency_Read extends Login {
 	    
 	    Thread.sleep(4000);
 	    
-	    driver.findElement(By.xpath("//*[@placeholder='Gateway']")).sendKeys("FDP-3FA2 & 3FA1",Keys.ENTER);
+	   // driver.findElement(By.xpath("//*[@placeholder='Gateway']")).sendKeys("FDP-3FA2 & 3FA1",Keys.ENTER);
 	    
 	    
 	    Thread.sleep(3000);
 	    
-/*	    List<WebElement> gatewayOptions = driver.findElements(By.xpath("//*[@role='menuitem']"));
-	    
-	    for (int i = 1; i <= 20; i++) {
-	        // Construct the XPath for each item based on its index
-	        String xpathForItem = "//*[@role='menuitem'][" + i + "]";
-	        
-	        // Find the element and click on it
-	        WebElement gatewayOption = driver.findElement(By.xpath(xpathForItem));
-	        gatewayOption.click();*/
+		
+		  List<WebElement> gatewayOptions = driver.findElements(By.xpath("//*[@role='menuitem']"));
+		  
+		  for (int i = 1; i < gatewayOptions.size(); i++) { // Construct the XPath for each item based onits index 
+		  
+		  String xpathForItem = "//*[@role='menuitem'][" + i + "]";
+		  
+		  // Find the element and click on it 
+		  WebElement gatewayOption =driver.findElement(By.xpath(xpathForItem)); 
+		  
+		  String gatewayName= gatewayOption.getText();
+		  
+		  Reporter.log(gatewayName,true);
+		  
+		  gatewayOption.click();
+		 
 	        
 	        WebElement Meter_Dropdown=(driver.findElement(By.xpath(prop.getProperty("Meter"))));
 	        
@@ -77,9 +86,9 @@ public class Frequency_Read extends Login {
 	        
 	        List<WebElement> MeterOptions = driver.findElements(By.xpath("//*[@role='menuitem']"));
 	        
-	        for (int i = 1; i <= 2; i++) {
+	        for (int j = 1; j < MeterOptions.size(); j++) {
 		        // Construct the XPath for each item based on its index
-		        String xpathForItem1 = "//*[@role='menuitem'][" + i + "]";
+		        String xpathForItem1 = "//*[@role='menuitem'][" + j + "]";
 		        
 		        // Find the element and click on it
 		        WebElement meterOption = driver.findElement(By.xpath(xpathForItem1));
@@ -87,30 +96,41 @@ public class Frequency_Read extends Login {
 		        String metername= meterOption.getText();
 		        
 		        Reporter.log(metername,true);
-		        System.out.println(metername);
+		  
 		       
 		        meterOption.click();
 		
 		      
 		        WebElement Date=(driver.findElement(By.xpath(prop.getProperty("Date"))));
 		        
-		        Date.sendKeys("12/18/2023 - 12/18/2023");
+		        LocalDate currentDate = LocalDate.now();
+		        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("MM/dd/yyyy");
+		        String formattedDate = currentDate.format(formatter);
+
+		        // Calculate the end date (e.g., 7 days from today)
+		        LocalDate endDate = currentDate.plusDays(0); // Adjust this as needed
+		        String formattedEndDate = endDate.format(formatter);
+
+		        // Concatenate start and end dates with a separator
+		        String dateRange = formattedDate + " - " + formattedEndDate;
+
+		        // Send the date range to the WebElement
+		        Date.sendKeys(dateRange);
 		        
 		        driver.findElement(By.xpath(prop.getProperty("Generate_Report"))).click();
 		        
-		        Thread.sleep(5000);
+		        Thread.sleep(8000);
 		        
 		        JavascriptExecutor js = (JavascriptExecutor) driver;
-				js.executeScript("window.scrollBy(0,500)", "");
+				js.executeScript("window.scrollBy(0,250)", "");
 				
 				 Thread.sleep(5000);
 		        
-		      WebElement FrequencyValue= driver.findElement(By.xpath("//tbody/tr[5]/td[5]"));
+		      WebElement FrequencyValue= driver.findElement(By.xpath("//table//tr[1]//td[3]"));
 		      
 		        String Frequency_Hz= FrequencyValue.getText();
 		      
 		      Reporter.log(Frequency_Hz,true); 
-		      System.out.println(Frequency_Hz);
 		      
 		   // Assuming Frequency_Hz is a double value, you can convert it to a string
 		        double frequencyValue = Double.parseDouble(Frequency_Hz);
@@ -118,22 +138,21 @@ public class Frequency_Read extends Login {
 		        // Check if the frequency is zero
 		        if (frequencyValue == 0) {
 		            // If frequency is zero, send an email
-		        	sendEmailToManager("Gateway Name == FDP-3FA2 & 3FA1 ,Meter Name ----" + metername +  "The frequency value is zero. Please check.");
-
-		      
+		        //sendEmailToManager("Gateway Name ==" + gatewayName + ",Meter Name ----" + metername +  "The frequency value is zero. Please check.");
+                  System.out.println("FrequencyValue is 0"); 
+		        }
 		      JavascriptExecutor js1 = (JavascriptExecutor) driver;
-				js1.executeScript("window.scrollBy(0,-500)", "");
+				js1.executeScript("window.scrollBy(0,-750)", "");
 				
-				Thread.sleep(4000);
+				Thread.sleep(6000);
 		      
 		      Meter_Dropdown.click();
-		      
-		      
-	        //Gateway_Dropdown.click();
-	    
-	    
-	        }
-	    
+		 
+	        
+		        
+	             }
+	        
+	        Gateway_Dropdown.click(); 
 	    }
 		
 	}

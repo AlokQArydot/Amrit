@@ -20,27 +20,588 @@
       <![CDATA[click login button ]]>
     </line>
     <line>
-      <![CDATA[3FA2_1F2_SHOP-314]]>
+      <![CDATA[MAIN_LT_PANEL-2]]>
     </line>
     <line>
-      <![CDATA[0]]>
+      <![CDATA[Tower B Retail panel]]>
+    </line>
+    <line>
+      <![CDATA[Construction Supply]]>
+    </line>
+    <line>
+      <![CDATA[APFC_PANEL]]>
+    </line>
+    <line>
+      <![CDATA[5f1_Feeder]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==MAIN_LT_PANEL-2,Meter Name ----5f1_FeederThe frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[601_HEUBACH]]>
+    </line>
+    <line>
+      <![CDATA[SOLAR_FEEDER]]>
+    </line>
+    <line>
+      <![CDATA[3F_FEEDER-1]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==MAIN_LT_PANEL-2,Meter Name ----3F_FEEDER-1The frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[4F_FEEDER-1]]>
+    </line>
+    <line>
+      <![CDATA[4F_FEEDER-2]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==MAIN_LT_PANEL-2,Meter Name ----4F_FEEDER-2The frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[8F2_4FA2]]>
+    </line>
+    <line>
+      <![CDATA[3F_FEEDER-2]]>
+    </line>
+    <line>
+      <![CDATA[9F2_FDP3FA2]]>
+    </line>
+    <line>
+      <![CDATA[9F3_SPARE]]>
+    </line>
+    <line>
+      <![CDATA[LT_PANEL_2_DG_INCOMER]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==MAIN_LT_PANEL-2,Meter Name ----LT_PANEL_2_DG_INCOMERThe frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[LT_PANEL_2_EB_INCOMER]]>
+    </line>
+    <line>
+      <![CDATA[COMMON AREA LIGHTNING AND POWER PANEL]]>
+    </line>
+    <line>
+      <![CDATA[2F5_EXTERNAL LIGHTING PANEL 2]]>
+    </line>
+    <line>
+      <![CDATA[2F4_EXTERNAL LIGHTING PANEL 1]]>
+    </line>
+    <line>
+      <![CDATA[2F3_COMMON PASSAGE PANEL TOWER A]]>
+    </line>
+    <line>
+      <![CDATA[2F2_B2-COMMAN AREA PANEL]]>
+    </line>
+    <line>
+      <![CDATA[2F1_B1-COMMAN AREA PANEL]]>
+    </line>
+    <line>
+      <![CDATA[MAIN_LT_PANEL-1]]>
+    </line>
+    <line>
+      <![CDATA[9F-5_SPARE]]>
+    </line>
+    <line>
+      <![CDATA[9F-4_SOLAR INVERTER FEEDER]]>
+    </line>
+    <line>
+      <![CDATA[9F-3_SPARE]]>
+    </line>
+    <line>
+      <![CDATA[9F-2_SPARE]]>
+    </line>
+    <line>
+      <![CDATA[TOWER_A_2ND_FLOOR_FEEDER]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==MAIN_LT_PANEL-1,Meter Name ----TOWER_A_2ND_FLOOR_FEEDERThe frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[8F-5_PLUMBING PANEL]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==MAIN_LT_PANEL-1,Meter Name ----8F-5_PLUMBING PANELThe frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[8F-4_TERRACE PANEL]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==MAIN_LT_PANEL-1,Meter Name ----8F-4_TERRACE PANELThe frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[8F-2_HDFC]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==MAIN_LT_PANEL-1,Meter Name ----8F-2_HDFCThe frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[8F-1_SPARE]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==MAIN_LT_PANEL-1,Meter Name ----8F-1_SPAREThe frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[7F-1_METERING AND INDICATION]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==MAIN_LT_PANEL-1,Meter Name ----7F-1_METERING AND INDICATIONThe frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[TOWER_A_GF_FEEDER]]>
+    </line>
+    <line>
+      <![CDATA[4F-2_LIFE SAFET PANEL]]>
+    </line>
+    <line>
+      <![CDATA[3F-3_BASEMENT1 VENTILATION PANEL]]>
+    </line>
+    <line>
+      <![CDATA[3F-1_COMMON LIGHTNING AND POWER PANEL]]>
+    </line>
+    <line>
+      <![CDATA[LT_PANEL_1_EB_INCOMER]]>
+    </line>
+    <line>
+      <![CDATA[LT_PANEL_1_DG_INCOMER]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==MAIN_LT_PANEL-1,Meter Name ----LT_PANEL_1_DG_INCOMERThe frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[UPS_OUTPUT_PANEL]]>
+    </line>
+    <line>
+      <![CDATA[GF_METER_PANEL_TOWER-A]]>
+    </line>
+    <line>
+      <![CDATA[2F1_Q1 CAFE NEAR MAX]]>
+    </line>
+    <line>
+      <![CDATA[2F1_Q2 CAFE NEAR CROMA]]>
+    </line>
+    <line>
+      <![CDATA[2F2_MAX]]>
+    </line>
+    <line>
+      <![CDATA[2F3_PANTALOONS]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==GF_METER_PANEL_TOWER-A,Meter Name ----2F3_PANTALOONSThe frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[2F4_CROMA(1)]]>
+    </line>
+    <line>
+      <![CDATA[3F1_Q3 CAFE NEAR M&S]]>
+    </line>
+    <line>
+      <![CDATA[3F1_Q4 CAFE NEAR PANTALOONS]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==GF_METER_PANEL_TOWER-A,Meter Name ----3F1_Q4 CAFE NEAR PANTALOONSThe frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[3F2_SPACE]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==GF_METER_PANEL_TOWER-A,Meter Name ----3F2_SPACEThe frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[3F3_METER PANEL-1F FDP-1FA]]>
+    </line>
+    <line>
+      <![CDATA[External_Lighting_DB]]>
+    </line>
+    <line>
+      <![CDATA[1F2_Q1 TO Q3_1]]>
+    </line>
+    <line>
+      <![CDATA[1F2_Q1 TO Q3_2]]>
+    </line>
+    <line>
+      <![CDATA[FDP-1FA1]]>
+    </line>
+    <line>
+      <![CDATA[2F1_SPARE]]>
+    </line>
+    <line>
+      <![CDATA[2F2_PANTALOONS]]>
+    </line>
+    <line>
+      <![CDATA[2F3_MAX]]>
+    </line>
+    <line>
+      <![CDATA[2F4_CROMA]]>
+    </line>
+    <line>
+      <![CDATA[FDP-2FA1]]>
+    </line>
+    <line>
+      <![CDATA[1F2_SHOP-1]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==FDP-2FA1,Meter Name ----1F2_SHOP-1Text Found is No Data Found.]]>
+    </line>
+    <line>
+      <![CDATA[2F1_SHOP-2]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==FDP-2FA1,Meter Name ----2F1_SHOP-2Text Found is No Data Found.]]>
+    </line>
+    <line>
+      <![CDATA[2F2_SHOP-3]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==FDP-2FA1,Meter Name ----2F2_SHOP-3Text Found is No Data Found.]]>
+    </line>
+    <line>
+      <![CDATA[2F3_HDFC_ FITOUT]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==FDP-2FA1,Meter Name ----2F3_HDFC_ FITOUTText Found is No Data Found.]]>
+    </line>
+    <line>
+      <![CDATA[2F4_Q1 SHOP EXPECTED Q2 SPARE]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==FDP-2FA1,Meter Name ----2F4_Q1 SHOP EXPECTED Q2 SPAREText Found is No Data Found.]]>
+    </line>
+    <line>
+      <![CDATA[FDP-3FA2 & 3FA1]]>
+    </line>
+    <line>
+      <![CDATA[3FA2_1F2_SHOP-314]]>
     </line>
     <line>
       <![CDATA[3FA2_1F3_SHOP-306]]>
     </line>
     <line>
-      <![CDATA[0]]>
+      <![CDATA[308_DELTA_TOOLING'S]]>
+    </line>
+    <line>
+      <![CDATA[3FA2_1F4_SHOP-313]]>
+    </line>
+    <line>
+      <![CDATA[3FA2_2F1_SPARE]]>
+    </line>
+    <line>
+      <![CDATA[3FA2_2F2_SPARE]]>
+    </line>
+    <line>
+      <![CDATA[3FA2_2F3_SHOP-311]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==FDP-3FA2 & 3FA1,Meter Name ----3FA2_2F3_SHOP-311The frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[3FA2_2F3_SHOP-312]]>
+    </line>
+    <line>
+      <![CDATA[3FA2_2F4_SHOP SPARE]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==FDP-3FA2 & 3FA1,Meter Name ----3FA2_2F4_SHOP SPAREThe frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[3FA2_2F4_SHOP-315]]>
+    </line>
+    <line>
+      <![CDATA[3FA2_2F5_SHOP-309]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==FDP-3FA2 & 3FA1,Meter Name ----3FA2_2F5_SHOP-309The frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[3FA2_2F5_SHOP-308]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==FDP-3FA2 & 3FA1,Meter Name ----3FA2_2F5_SHOP-308The frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[301_CAREER_ABROAD]]>
+    </line>
+    <line>
+      <![CDATA[305_ Kanakadurga Finance Limited]]>
+    </line>
+    <line>
+      <![CDATA[302_SHREE_PRAMUKH_TRANSPORT_CO.]]>
+    </line>
+    <line>
+      <![CDATA[303_SHREE_PRAMUKH_TRANSPORT_CO.]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==FDP-3FA2 & 3FA1,Meter Name ----303_SHREE_PRAMUKH_TRANSPORT_CO.The frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[3FA1_2F1_SPARE]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==FDP-3FA2 & 3FA1,Meter Name ----3FA1_2F1_SPAREThe frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[3FA1_2F2_SPARE]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==FDP-3FA2 & 3FA1,Meter Name ----3FA1_2F2_SPAREThe frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[3FA1_2F3_SHOP-303]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==FDP-3FA2 & 3FA1,Meter Name ----3FA1_2F3_SHOP-303The frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[3FA1_2F2_SHOP-316]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==FDP-3FA2 & 3FA1,Meter Name ----3FA1_2F2_SHOP-316The frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[3FA1_2F4_SHOP-318-1]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==FDP-3FA2 & 3FA1,Meter Name ----3FA1_2F4_SHOP-318-1The frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[304_ Kanakadurga Finance Limited]]>
+    </line>
+    <line>
+      <![CDATA[FDP-4FA1 & 4FA2]]>
+    </line>
+    <line>
+      <![CDATA[4FA2_1F2_SPARE]]>
+    </line>
+    <line>
+      <![CDATA[404_S A PATEL]]>
+    </line>
+    <line>
+      <![CDATA[4FA2_1F3_SPARE]]>
+    </line>
+    <line>
+      <![CDATA[4FA2_1F4_SHOP-409]]>
+    </line>
+    <line>
+      <![CDATA[4FA2_1F4_OFFICE-405]]>
+    </line>
+    <line>
+      <![CDATA[4FA2_2F1_SPARE]]>
+    </line>
+    <line>
+      <![CDATA[408_]]>
+    </line>
+    <line>
+      <![CDATA[4FA2_2F3_SHOP-411]]>
+    </line>
+    <line>
+      <![CDATA[4FA2_2F3_SHOP-413]]>
+    </line>
+    <line>
+      <![CDATA[406_N.R_PARIKH_AND_C.O'S]]>
+    </line>
+    <line>
+      <![CDATA[4FA2_2F4_SHOP-405 & 406]]>
+    </line>
+    <line>
+      <![CDATA[402_SHREE_PRAKASH_AGENCIES]]>
+    </line>
+    <line>
+      <![CDATA[403_MLSHAH & CO]]>
+    </line>
+    <line>
+      <![CDATA[4FA1_1F2_SHOP-401]]>
+    </line>
+    <line>
+      <![CDATA[4FA1_1F2_SHOP-403]]>
+    </line>
+    <line>
+      <![CDATA[404_]]>
+    </line>
+    <line>
+      <![CDATA[411_THAKKAR GLOBAL PVT LTD]]>
+    </line>
+    <line>
+      <![CDATA[401_Yokogawa]]>
+    </line>
+    <line>
+      <![CDATA[4FA2_2F2_SPARE]]>
+    </line>
+    <line>
+      <![CDATA[4FA2_2F3_SHOP-417]]>
+    </line>
+    <line>
+      <![CDATA[4FA1_2F3_SHOP-419]]>
+    </line>
+    <line>
+      <![CDATA[4FA1_2F4_SHOP-418]]>
+    </line>
+    <line>
+      <![CDATA[TERRACE_SOLAR_ACDB_PANEL]]>
+    </line>
+    <line>
+      <![CDATA[FDP-6FA]]>
+    </line>
+    <line>
+      <![CDATA[RETAIL_PANEL_TOWER_B-1]]>
+    </line>
+    <line>
+      <![CDATA[2F1_SHOP-40_B_BLK.LOCK_ST.FLR]]>
+    </line>
+    <line>
+      <![CDATA[2F1_SHOP-17]]>
+    </line>
+    <line>
+      <![CDATA[2F1_SHOP-18]]>
+    </line>
+    <line>
+      <![CDATA[PIZZA_HUT]]>
+    </line>
+    <line>
+      <![CDATA[2F3_SHOP-41_B_BLK.LOCK_ST.FLR]]>
+    </line>
+    <line>
+      <![CDATA[2F3_SHOP-39_B_BLK.LOCK_ST.FLR]]>
+    </line>
+    <line>
+      <![CDATA[2F3_SHOP-19_B_BLK.LOCK_G/R FLR]]>
+    </line>
+    <line>
+      <![CDATA[2F4_SHOP-44_B_BLK.LOCK_ST.FLR]]>
+    </line>
+    <line>
+      <![CDATA[2F4_SHOP-43_B_BLK.LOCK_ST.FLR]]>
+    </line>
+    <line>
+      <![CDATA[2F4_SHOP-20]]>
+    </line>
+    <line>
+      <![CDATA[2F5_SHOP_UTSA]]>
+    </line>
+    <line>
+      <![CDATA[RETAIL_PANEL_TOWER_B-2]]>
+    </line>
+    <line>
+      <![CDATA[BATA]]>
+    </line>
+    <line>
+      <![CDATA[3F1_SHOP-22_B_BLK.LOCK_G/R FLR]]>
+    </line>
+    <line>
+      <![CDATA[3F1_SHOP-24_B_BLK.LOCK_G/R FLR]]>
+    </line>
+    <line>
+      <![CDATA[3F2_ZUDIO_2]]>
+    </line>
+    <line>
+      <![CDATA[3F3_SHOP-46_B_BLK.LOCK_ST.FLR]]>
+    </line>
+    <line>
+      <![CDATA[3F3_SPARE]]>
+    </line>
+    <line>
+      <![CDATA[3F3_SHOP-23_B_BLK.LOCK_G/R FLR]]>
+    </line>
+    <line>
+      <![CDATA[3F4_20 slave name temporary]]>
+    </line>
+    <line>
+      <![CDATA[3F4_21 slave name temporary]]>
+    </line>
+    <line>
+      <![CDATA[3F4_22 slave name temporary]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==RETAIL_PANEL_TOWER_B-2,Meter Name ----3F4_22 slave name temporaryThe frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[Croma NEW]]>
+    </line>
+    <line>
+      <![CDATA[4F1_SHOP-57_B_BLK_LOCK_SECO.FLR]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==RETAIL_PANEL_TOWER_B-2,Meter Name ----4F1_SHOP-57_B_BLK_LOCK_SECO.FLRThe frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[4F1_SHOP-56_B_BLK_LOCK_SECO.FLR]]>
+    </line>
+    <line>
+      <![CDATA[Croma]]>
+    </line>
+    <line>
+      <![CDATA[4F2_SHOP-59_B_BLK_LOCK_SECO.FLR]]>
+    </line>
+    <line>
+      <![CDATA[4F2_SHOP-27_B_BLK.LOCK_G/R FLR]]>
+    </line>
+    <line>
+      <![CDATA[4F3_SHOP-64_B_BLK_LOCK_SECO.FLR]]>
+    </line>
+    <line>
+      <![CDATA[4F3_SHOP-25_B_BLK_LOCK_G/R FLR]]>
+    </line>
+    <line>
+      <![CDATA[4F3_SHOP-26_B_BLK_LOCK_G/R FLR]]>
+    </line>
+    <line>
+      <![CDATA[4F4_SHOP-58_B_BLK_LOCK_SECO.FLR]]>
+    </line>
+    <line>
+      <![CDATA[4F4_SHOP-28_B_BLK_LOCK_G/R FLR]]>
+    </line>
+    <line>
+      <![CDATA[4F4_SHOP-29_B_BLK_LOCK_G/R FLR]]>
+    </line>
+    <line>
+      <![CDATA[FDP-5FA1]]>
+    </line>
+    <line>
+      <![CDATA[501_Metso]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==FDP-5FA1,Meter Name ----501_MetsoText Found is No Data Found.]]>
+    </line>
+    <line>
+      <![CDATA[Life Safety Panel]]>
+    </line>
+    <line>
+      <![CDATA[1F1_fire_fighting_panel]]>
+    </line>
+    <line>
+      <![CDATA[2F1_elevator_panel]]>
+    </line>
+    <line>
+      <![CDATA[2F3_elevator_panel]]>
+    </line>
+    <line>
+      <![CDATA[DG_Ground_Sync_Panels]]>
+    </line>
+    <line>
+      <![CDATA[DG_Sync_Panel-1]]>
+    </line>
+    <line>
+      <![CDATA[Gateway Name ==DG_Ground_Sync_Panels,Meter Name ----DG_Sync_Panel-1The frequency value is zero. Please check.]]>
+    </line>
+    <line>
+      <![CDATA[DG_Sync_Panel-2]]>
+    </line>
+    <line>
+      <![CDATA[DG_Ground-2]]>
+    </line>
+    <line>
+      <![CDATA[DG_Ground-3]]>
     </line>
     <line>
       <![CDATA[=====Browser Session End=====]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-12-18T18:06:29 IST" name="Default suite" finished-at="2023-12-18T18:07:54 IST" duration-ms="85708">
+  <suite started-at="2023-12-27T10:09:17 IST" name="Default suite" finished-at="2023-12-27T11:01:36 IST" duration-ms="3138327">
     <groups>
     </groups>
-    <test started-at="2023-12-18T18:06:29 IST" name="Default test" finished-at="2023-12-18T18:07:54 IST" duration-ms="85708">
-      <class name="testcases.Frequency_Read">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.Frequency_Read@32c4e8b2]" started-at="2023-12-18T18:06:15 IST" name="setup" finished-at="2023-12-18T18:06:29 IST" duration-ms="14161" status="PASS">
+    <test started-at="2023-12-27T10:09:17 IST" name="Default test" finished-at="2023-12-27T11:01:36 IST" duration-ms="3138327">
+      <class name="testcases.One_Mail">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.One_Mail@36328d33]" started-at="2023-12-27T10:08:59 IST" name="setup" finished-at="2023-12-27T10:09:17 IST" duration-ms="18853" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[=====Browser Session Started=====]]>
@@ -50,7 +611,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="LOGIN()[pri:1, instance:testcases.Frequency_Read@32c4e8b2]" started-at="2023-12-18T18:06:29 IST" name="LOGIN" finished-at="2023-12-18T18:06:51 IST" duration-ms="22605" status="PASS">
+        <test-method signature="LOGIN()[pri:1, instance:testcases.One_Mail@36328d33]" started-at="2023-12-27T10:09:17 IST" name="LOGIN" finished-at="2023-12-27T10:09:38 IST" duration-ms="20179" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[click login button ]]>
@@ -66,30 +627,591 @@
             </line>
           </reporter-output>
         </test-method> <!-- LOGIN -->
-        <test-method signature="Frequency_Report()[pri:3, instance:testcases.Frequency_Read@32c4e8b2]" started-at="2023-12-18T18:06:51 IST" name="Frequency_Report" finished-at="2023-12-18T18:07:54 IST" duration-ms="63017" status="PASS">
+        <test-method signature="Frequency_Report()[pri:5, instance:testcases.One_Mail@36328d33]" started-at="2023-12-27T10:09:38 IST" name="Frequency_Report" finished-at="2023-12-27T11:01:36 IST" duration-ms="3118054" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[3FA2_1F2_SHOP-314]]>
+              <![CDATA[MAIN_LT_PANEL-2]]>
             </line>
             <line>
-              <![CDATA[0]]>
+              <![CDATA[Tower B Retail panel]]>
+            </line>
+            <line>
+              <![CDATA[Construction Supply]]>
+            </line>
+            <line>
+              <![CDATA[APFC_PANEL]]>
+            </line>
+            <line>
+              <![CDATA[5f1_Feeder]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==MAIN_LT_PANEL-2,Meter Name ----5f1_FeederThe frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[601_HEUBACH]]>
+            </line>
+            <line>
+              <![CDATA[SOLAR_FEEDER]]>
+            </line>
+            <line>
+              <![CDATA[3F_FEEDER-1]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==MAIN_LT_PANEL-2,Meter Name ----3F_FEEDER-1The frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[4F_FEEDER-1]]>
+            </line>
+            <line>
+              <![CDATA[4F_FEEDER-2]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==MAIN_LT_PANEL-2,Meter Name ----4F_FEEDER-2The frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[8F2_4FA2]]>
+            </line>
+            <line>
+              <![CDATA[3F_FEEDER-2]]>
+            </line>
+            <line>
+              <![CDATA[9F2_FDP3FA2]]>
+            </line>
+            <line>
+              <![CDATA[9F3_SPARE]]>
+            </line>
+            <line>
+              <![CDATA[LT_PANEL_2_DG_INCOMER]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==MAIN_LT_PANEL-2,Meter Name ----LT_PANEL_2_DG_INCOMERThe frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[LT_PANEL_2_EB_INCOMER]]>
+            </line>
+            <line>
+              <![CDATA[COMMON AREA LIGHTNING AND POWER PANEL]]>
+            </line>
+            <line>
+              <![CDATA[2F5_EXTERNAL LIGHTING PANEL 2]]>
+            </line>
+            <line>
+              <![CDATA[2F4_EXTERNAL LIGHTING PANEL 1]]>
+            </line>
+            <line>
+              <![CDATA[2F3_COMMON PASSAGE PANEL TOWER A]]>
+            </line>
+            <line>
+              <![CDATA[2F2_B2-COMMAN AREA PANEL]]>
+            </line>
+            <line>
+              <![CDATA[2F1_B1-COMMAN AREA PANEL]]>
+            </line>
+            <line>
+              <![CDATA[MAIN_LT_PANEL-1]]>
+            </line>
+            <line>
+              <![CDATA[9F-5_SPARE]]>
+            </line>
+            <line>
+              <![CDATA[9F-4_SOLAR INVERTER FEEDER]]>
+            </line>
+            <line>
+              <![CDATA[9F-3_SPARE]]>
+            </line>
+            <line>
+              <![CDATA[9F-2_SPARE]]>
+            </line>
+            <line>
+              <![CDATA[TOWER_A_2ND_FLOOR_FEEDER]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==MAIN_LT_PANEL-1,Meter Name ----TOWER_A_2ND_FLOOR_FEEDERThe frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[8F-5_PLUMBING PANEL]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==MAIN_LT_PANEL-1,Meter Name ----8F-5_PLUMBING PANELThe frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[8F-4_TERRACE PANEL]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==MAIN_LT_PANEL-1,Meter Name ----8F-4_TERRACE PANELThe frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[8F-2_HDFC]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==MAIN_LT_PANEL-1,Meter Name ----8F-2_HDFCThe frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[8F-1_SPARE]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==MAIN_LT_PANEL-1,Meter Name ----8F-1_SPAREThe frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[7F-1_METERING AND INDICATION]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==MAIN_LT_PANEL-1,Meter Name ----7F-1_METERING AND INDICATIONThe frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[TOWER_A_GF_FEEDER]]>
+            </line>
+            <line>
+              <![CDATA[4F-2_LIFE SAFET PANEL]]>
+            </line>
+            <line>
+              <![CDATA[3F-3_BASEMENT1 VENTILATION PANEL]]>
+            </line>
+            <line>
+              <![CDATA[3F-1_COMMON LIGHTNING AND POWER PANEL]]>
+            </line>
+            <line>
+              <![CDATA[LT_PANEL_1_EB_INCOMER]]>
+            </line>
+            <line>
+              <![CDATA[LT_PANEL_1_DG_INCOMER]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==MAIN_LT_PANEL-1,Meter Name ----LT_PANEL_1_DG_INCOMERThe frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[UPS_OUTPUT_PANEL]]>
+            </line>
+            <line>
+              <![CDATA[GF_METER_PANEL_TOWER-A]]>
+            </line>
+            <line>
+              <![CDATA[2F1_Q1 CAFE NEAR MAX]]>
+            </line>
+            <line>
+              <![CDATA[2F1_Q2 CAFE NEAR CROMA]]>
+            </line>
+            <line>
+              <![CDATA[2F2_MAX]]>
+            </line>
+            <line>
+              <![CDATA[2F3_PANTALOONS]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==GF_METER_PANEL_TOWER-A,Meter Name ----2F3_PANTALOONSThe frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[2F4_CROMA(1)]]>
+            </line>
+            <line>
+              <![CDATA[3F1_Q3 CAFE NEAR M&S]]>
+            </line>
+            <line>
+              <![CDATA[3F1_Q4 CAFE NEAR PANTALOONS]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==GF_METER_PANEL_TOWER-A,Meter Name ----3F1_Q4 CAFE NEAR PANTALOONSThe frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[3F2_SPACE]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==GF_METER_PANEL_TOWER-A,Meter Name ----3F2_SPACEThe frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[3F3_METER PANEL-1F FDP-1FA]]>
+            </line>
+            <line>
+              <![CDATA[External_Lighting_DB]]>
+            </line>
+            <line>
+              <![CDATA[1F2_Q1 TO Q3_1]]>
+            </line>
+            <line>
+              <![CDATA[1F2_Q1 TO Q3_2]]>
+            </line>
+            <line>
+              <![CDATA[FDP-1FA1]]>
+            </line>
+            <line>
+              <![CDATA[2F1_SPARE]]>
+            </line>
+            <line>
+              <![CDATA[2F2_PANTALOONS]]>
+            </line>
+            <line>
+              <![CDATA[2F3_MAX]]>
+            </line>
+            <line>
+              <![CDATA[2F4_CROMA]]>
+            </line>
+            <line>
+              <![CDATA[FDP-2FA1]]>
+            </line>
+            <line>
+              <![CDATA[1F2_SHOP-1]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==FDP-2FA1,Meter Name ----1F2_SHOP-1Text Found is No Data Found.]]>
+            </line>
+            <line>
+              <![CDATA[2F1_SHOP-2]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==FDP-2FA1,Meter Name ----2F1_SHOP-2Text Found is No Data Found.]]>
+            </line>
+            <line>
+              <![CDATA[2F2_SHOP-3]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==FDP-2FA1,Meter Name ----2F2_SHOP-3Text Found is No Data Found.]]>
+            </line>
+            <line>
+              <![CDATA[2F3_HDFC_ FITOUT]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==FDP-2FA1,Meter Name ----2F3_HDFC_ FITOUTText Found is No Data Found.]]>
+            </line>
+            <line>
+              <![CDATA[2F4_Q1 SHOP EXPECTED Q2 SPARE]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==FDP-2FA1,Meter Name ----2F4_Q1 SHOP EXPECTED Q2 SPAREText Found is No Data Found.]]>
+            </line>
+            <line>
+              <![CDATA[FDP-3FA2 & 3FA1]]>
+            </line>
+            <line>
+              <![CDATA[3FA2_1F2_SHOP-314]]>
             </line>
             <line>
               <![CDATA[3FA2_1F3_SHOP-306]]>
             </line>
             <line>
-              <![CDATA[0]]>
+              <![CDATA[308_DELTA_TOOLING'S]]>
+            </line>
+            <line>
+              <![CDATA[3FA2_1F4_SHOP-313]]>
+            </line>
+            <line>
+              <![CDATA[3FA2_2F1_SPARE]]>
+            </line>
+            <line>
+              <![CDATA[3FA2_2F2_SPARE]]>
+            </line>
+            <line>
+              <![CDATA[3FA2_2F3_SHOP-311]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==FDP-3FA2 & 3FA1,Meter Name ----3FA2_2F3_SHOP-311The frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[3FA2_2F3_SHOP-312]]>
+            </line>
+            <line>
+              <![CDATA[3FA2_2F4_SHOP SPARE]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==FDP-3FA2 & 3FA1,Meter Name ----3FA2_2F4_SHOP SPAREThe frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[3FA2_2F4_SHOP-315]]>
+            </line>
+            <line>
+              <![CDATA[3FA2_2F5_SHOP-309]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==FDP-3FA2 & 3FA1,Meter Name ----3FA2_2F5_SHOP-309The frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[3FA2_2F5_SHOP-308]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==FDP-3FA2 & 3FA1,Meter Name ----3FA2_2F5_SHOP-308The frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[301_CAREER_ABROAD]]>
+            </line>
+            <line>
+              <![CDATA[305_ Kanakadurga Finance Limited]]>
+            </line>
+            <line>
+              <![CDATA[302_SHREE_PRAMUKH_TRANSPORT_CO.]]>
+            </line>
+            <line>
+              <![CDATA[303_SHREE_PRAMUKH_TRANSPORT_CO.]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==FDP-3FA2 & 3FA1,Meter Name ----303_SHREE_PRAMUKH_TRANSPORT_CO.The frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[3FA1_2F1_SPARE]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==FDP-3FA2 & 3FA1,Meter Name ----3FA1_2F1_SPAREThe frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[3FA1_2F2_SPARE]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==FDP-3FA2 & 3FA1,Meter Name ----3FA1_2F2_SPAREThe frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[3FA1_2F3_SHOP-303]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==FDP-3FA2 & 3FA1,Meter Name ----3FA1_2F3_SHOP-303The frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[3FA1_2F2_SHOP-316]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==FDP-3FA2 & 3FA1,Meter Name ----3FA1_2F2_SHOP-316The frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[3FA1_2F4_SHOP-318-1]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==FDP-3FA2 & 3FA1,Meter Name ----3FA1_2F4_SHOP-318-1The frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[304_ Kanakadurga Finance Limited]]>
+            </line>
+            <line>
+              <![CDATA[FDP-4FA1 & 4FA2]]>
+            </line>
+            <line>
+              <![CDATA[4FA2_1F2_SPARE]]>
+            </line>
+            <line>
+              <![CDATA[404_S A PATEL]]>
+            </line>
+            <line>
+              <![CDATA[4FA2_1F3_SPARE]]>
+            </line>
+            <line>
+              <![CDATA[4FA2_1F4_SHOP-409]]>
+            </line>
+            <line>
+              <![CDATA[4FA2_1F4_OFFICE-405]]>
+            </line>
+            <line>
+              <![CDATA[4FA2_2F1_SPARE]]>
+            </line>
+            <line>
+              <![CDATA[408_]]>
+            </line>
+            <line>
+              <![CDATA[4FA2_2F3_SHOP-411]]>
+            </line>
+            <line>
+              <![CDATA[4FA2_2F3_SHOP-413]]>
+            </line>
+            <line>
+              <![CDATA[406_N.R_PARIKH_AND_C.O'S]]>
+            </line>
+            <line>
+              <![CDATA[4FA2_2F4_SHOP-405 & 406]]>
+            </line>
+            <line>
+              <![CDATA[402_SHREE_PRAKASH_AGENCIES]]>
+            </line>
+            <line>
+              <![CDATA[403_MLSHAH & CO]]>
+            </line>
+            <line>
+              <![CDATA[4FA1_1F2_SHOP-401]]>
+            </line>
+            <line>
+              <![CDATA[4FA1_1F2_SHOP-403]]>
+            </line>
+            <line>
+              <![CDATA[404_]]>
+            </line>
+            <line>
+              <![CDATA[411_THAKKAR GLOBAL PVT LTD]]>
+            </line>
+            <line>
+              <![CDATA[401_Yokogawa]]>
+            </line>
+            <line>
+              <![CDATA[4FA2_2F2_SPARE]]>
+            </line>
+            <line>
+              <![CDATA[4FA2_2F3_SHOP-417]]>
+            </line>
+            <line>
+              <![CDATA[4FA1_2F3_SHOP-419]]>
+            </line>
+            <line>
+              <![CDATA[4FA1_2F4_SHOP-418]]>
+            </line>
+            <line>
+              <![CDATA[TERRACE_SOLAR_ACDB_PANEL]]>
+            </line>
+            <line>
+              <![CDATA[FDP-6FA]]>
+            </line>
+            <line>
+              <![CDATA[RETAIL_PANEL_TOWER_B-1]]>
+            </line>
+            <line>
+              <![CDATA[2F1_SHOP-40_B_BLK.LOCK_ST.FLR]]>
+            </line>
+            <line>
+              <![CDATA[2F1_SHOP-17]]>
+            </line>
+            <line>
+              <![CDATA[2F1_SHOP-18]]>
+            </line>
+            <line>
+              <![CDATA[PIZZA_HUT]]>
+            </line>
+            <line>
+              <![CDATA[2F3_SHOP-41_B_BLK.LOCK_ST.FLR]]>
+            </line>
+            <line>
+              <![CDATA[2F3_SHOP-39_B_BLK.LOCK_ST.FLR]]>
+            </line>
+            <line>
+              <![CDATA[2F3_SHOP-19_B_BLK.LOCK_G/R FLR]]>
+            </line>
+            <line>
+              <![CDATA[2F4_SHOP-44_B_BLK.LOCK_ST.FLR]]>
+            </line>
+            <line>
+              <![CDATA[2F4_SHOP-43_B_BLK.LOCK_ST.FLR]]>
+            </line>
+            <line>
+              <![CDATA[2F4_SHOP-20]]>
+            </line>
+            <line>
+              <![CDATA[2F5_SHOP_UTSA]]>
+            </line>
+            <line>
+              <![CDATA[RETAIL_PANEL_TOWER_B-2]]>
+            </line>
+            <line>
+              <![CDATA[BATA]]>
+            </line>
+            <line>
+              <![CDATA[3F1_SHOP-22_B_BLK.LOCK_G/R FLR]]>
+            </line>
+            <line>
+              <![CDATA[3F1_SHOP-24_B_BLK.LOCK_G/R FLR]]>
+            </line>
+            <line>
+              <![CDATA[3F2_ZUDIO_2]]>
+            </line>
+            <line>
+              <![CDATA[3F3_SHOP-46_B_BLK.LOCK_ST.FLR]]>
+            </line>
+            <line>
+              <![CDATA[3F3_SPARE]]>
+            </line>
+            <line>
+              <![CDATA[3F3_SHOP-23_B_BLK.LOCK_G/R FLR]]>
+            </line>
+            <line>
+              <![CDATA[3F4_20 slave name temporary]]>
+            </line>
+            <line>
+              <![CDATA[3F4_21 slave name temporary]]>
+            </line>
+            <line>
+              <![CDATA[3F4_22 slave name temporary]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==RETAIL_PANEL_TOWER_B-2,Meter Name ----3F4_22 slave name temporaryThe frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[Croma NEW]]>
+            </line>
+            <line>
+              <![CDATA[4F1_SHOP-57_B_BLK_LOCK_SECO.FLR]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==RETAIL_PANEL_TOWER_B-2,Meter Name ----4F1_SHOP-57_B_BLK_LOCK_SECO.FLRThe frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[4F1_SHOP-56_B_BLK_LOCK_SECO.FLR]]>
+            </line>
+            <line>
+              <![CDATA[Croma]]>
+            </line>
+            <line>
+              <![CDATA[4F2_SHOP-59_B_BLK_LOCK_SECO.FLR]]>
+            </line>
+            <line>
+              <![CDATA[4F2_SHOP-27_B_BLK.LOCK_G/R FLR]]>
+            </line>
+            <line>
+              <![CDATA[4F3_SHOP-64_B_BLK_LOCK_SECO.FLR]]>
+            </line>
+            <line>
+              <![CDATA[4F3_SHOP-25_B_BLK_LOCK_G/R FLR]]>
+            </line>
+            <line>
+              <![CDATA[4F3_SHOP-26_B_BLK_LOCK_G/R FLR]]>
+            </line>
+            <line>
+              <![CDATA[4F4_SHOP-58_B_BLK_LOCK_SECO.FLR]]>
+            </line>
+            <line>
+              <![CDATA[4F4_SHOP-28_B_BLK_LOCK_G/R FLR]]>
+            </line>
+            <line>
+              <![CDATA[4F4_SHOP-29_B_BLK_LOCK_G/R FLR]]>
+            </line>
+            <line>
+              <![CDATA[FDP-5FA1]]>
+            </line>
+            <line>
+              <![CDATA[501_Metso]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==FDP-5FA1,Meter Name ----501_MetsoText Found is No Data Found.]]>
+            </line>
+            <line>
+              <![CDATA[Life Safety Panel]]>
+            </line>
+            <line>
+              <![CDATA[1F1_fire_fighting_panel]]>
+            </line>
+            <line>
+              <![CDATA[2F1_elevator_panel]]>
+            </line>
+            <line>
+              <![CDATA[2F3_elevator_panel]]>
+            </line>
+            <line>
+              <![CDATA[DG_Ground_Sync_Panels]]>
+            </line>
+            <line>
+              <![CDATA[DG_Sync_Panel-1]]>
+            </line>
+            <line>
+              <![CDATA[Gateway Name ==DG_Ground_Sync_Panels,Meter Name ----DG_Sync_Panel-1The frequency value is zero. Please check.]]>
+            </line>
+            <line>
+              <![CDATA[DG_Sync_Panel-2]]>
+            </line>
+            <line>
+              <![CDATA[DG_Ground-2]]>
+            </line>
+            <line>
+              <![CDATA[DG_Ground-3]]>
             </line>
           </reporter-output>
         </test-method> <!-- Frequency_Report -->
-        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testcases.Frequency_Read@32c4e8b2]" started-at="2023-12-18T18:07:54 IST" name="closeApplication" finished-at="2023-12-18T18:08:04 IST" duration-ms="10001" status="PASS">
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testcases.One_Mail@36328d33]" started-at="2023-12-27T11:01:36 IST" name="closeApplication" finished-at="2023-12-27T11:01:46 IST" duration-ms="10001" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[=====Browser Session End=====]]>
             </line>
           </reporter-output>
         </test-method> <!-- closeApplication -->
-      </class> <!-- testcases.Frequency_Read -->
+      </class> <!-- testcases.One_Mail -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
